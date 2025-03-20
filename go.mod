@@ -1,4 +1,4 @@
-module protos
+module github.com/salta0/sso-protos
 
 go 1.24.1
 
